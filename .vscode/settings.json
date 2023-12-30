@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/pknadimp/sdrc_ws/install/zed_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pknadimp/sdrc_ws/install/sdrc_zed2/lib/python3.10/site-packages",
+        "/home/pknadimp/sdrc_ws/install/sdrc_leds/lib/python3.10/site-packages",
+        "/home/pknadimp/sdrc_ws/install/sdrc_interfaces/local/lib/python3.10/dist-packages",
+        "/home/pknadimp/sdrc_ws/install/sdrc_gui/lib/python3.10/site-packages",
+        "/home/pknadimp/zed/install/zed_topic_benchmark_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
